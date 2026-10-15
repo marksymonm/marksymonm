@@ -85,9 +85,9 @@ Entry-level **Full-Stack Software Developer** and **Computer Engineering Technol
 ## 🤝 Let's Connect
 <div align="left">
   
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marksymonmartinez05@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=%23FFFFFF)](https://www.linkedin.com/in/mark-symon-martinez/)
-[![Portfolio](https://img.shields.io/badge/Visit-800020?style=for-the-badge&logo=vercel&logoColor=white)](https://marksymonm.vercel.app/)
+[![Email](https://img.shields.io/badge/%20-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=gray)](mailto:marksymonmartinez05@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/%20-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=gray)](https://www.linkedin.com/in/mark-symon-martinez/)
+[![Portfolio](https://img.shields.io/badge/%20-Visit-800020?style=for-the-badge&logo=vercel&logoColor=white&labelColor=gray)](https://marksymonm.vercel.app/)
 
 *Got a project, an opportunity? My inbox is open.*
 
