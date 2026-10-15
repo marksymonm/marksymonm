@@ -64,8 +64,8 @@ Entry-level **Full-Stack Software Developer** and **Computer Engineering Technol
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff" alt="GitHub" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff" alt="Docker" />
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff" alt="Postman" />
-        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff" alt="VS Code" />
-        <img src="https://img.shields.io/badge/Android_Studio-669933?style=for-the-badge&logo=androidstudio&logoColor=3DDC84" alt="Android Studio" />
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+        <img src="https://img.shields.io/badge/Android_Studio-669933?style=for-the-badge&logo=androidstudio&logoColor=fff" alt="Android Studio" />
         <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=fff" alt="XAMPP" />
       </td>
     </tr>
