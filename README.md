@@ -17,9 +17,9 @@ Entry-level **Full-Stack Software Developer** and **Computer Engineering Technol
     <tr style="background: transparent; border: none;">
       <td valign="middle" align="left" style="background: transparent; border: none;"><strong>Languages</strong></td>
       <td valign="middle" style="background: transparent; border: none;">
+        <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=fff" alt="Python" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" alt="Python" />
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=fff" alt="Java" />
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=fff" alt="Kotlin" />
       </td>
